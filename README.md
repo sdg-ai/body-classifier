@@ -1,2 +1,2 @@
 # body-classifier
-climate scanner service
+Body Classifier module for TrendScanner project
